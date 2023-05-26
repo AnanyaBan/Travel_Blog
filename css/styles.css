@@ -1,0 +1,61 @@
+.montserrat
+{
+    font-family: 'Montserrat';
+}
+
+.josefin
+{
+    font-family: 'Josefin-Sans';
+
+}
+
+.cards
+{
+    transition: 0.1s;
+}
+
+.cards:hover
+{
+    background-color:#eff6ff;
+    
+    
+  
+}
+    
+.cards-img
+{
+    transition: 0.1s;
+}
+
+.cards-img:hover
+{
+    -webkit-filter: brightness(50%);
+    
+}
+
+.button
+{
+    transition: 0.3s;
+}
+
+.ratings
+{
+    transition: 0.1s;
+}
+
+.ratings:hover
+{
+    color: #404040;
+
+}
+
+.ratings-rate
+{
+    transition: 0.1s;
+}
+
+.ratings-rate:hover
+{
+    background-color: #dc2626;
+
+}
