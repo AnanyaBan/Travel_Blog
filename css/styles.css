@@ -9,6 +9,13 @@
 
 }
 
+.carousel-img
+{
+    height: 36rem;
+    -webkit-filter: brightness(67%);
+
+}
+
 .cards
 {
     transition: 0.1s;
